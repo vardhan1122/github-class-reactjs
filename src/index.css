@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+body{
+    background-color:gray;
+}
+.gitapp{
+    background-color:rgb(145, 105, 255);
+    
+}
+
+.badge-primary{
+    padding: 10px !important;
+    margin: 5px !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color:white !important;
+    background-image: linear-gradient(45deg,#000000c4, rgb(46, 177, 218),#ff6b46);
+}
+.badge-secondary{
+    padding: 10px !important;
+    margin: 5px !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color:white !important;
+    background-image: linear-gradient(45deg,#588fd5,yellowgreen,#52d3c3);
+}
+
+.badge-success{
+    padding: 10px !important;
+    margin: 5px !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color:White !important;
+    background-image: linear-gradient(45deg,greenyellow,black,orange,#ff5353);
+}
+
+.badge-info{
+    padding: 10px !important;
+    margin: 5px !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color:white !important;
+    background-image: linear-gradient(45deg,#3eddf3,#ff46e9,#525fff,#ff4747);
+}
+
+
+
+
+.badge-danger{
+    padding: 10px !important;
+    margin: 10px;
+    font-size: 15px;
+    color:black !important;
+    background-image: linear-gradient(65deg,GRAY,#88a0ff,#f1458a,#a7fa86);
+}
+.badge-warning{
+    padding: 10px !important;
+    margin: 10px !important;
+    font-size: 15px;
+    color:black !important;
+    background-image: linear-gradient(65deg,#33f83b,#f8b133,#fd73e7);
+}
+.badge-dark{
+    padding: 10px !important;
+    margin: 10px;
+    font-size: 15px;
+    color:black !important;
+    background-image: linear-gradient(65deg,#2737f3,#76ec08,#d6434f);
+}
+.btn-info{
+    padding: 5px 10px 5px 10px !important;
+    margin: 10px !important;
+    font-size: 18px !important;
+    color:black !important;
+    background-image: linear-gradient(65deg,#2737f3,#76ec08,#d6434f) !important;
+}
+.repo-bg{
+    color:black !important;
+    font-weight: bold !important;
+    background-image: linear-gradient(35deg,black,#ff6b46,rgb(117, 243, 190),black) !important;
+
+}
+
+/* .repo-span{
+font-size:15px !important;
+} */
+
+/* adding styles for reactjs github user serach  */
+
+.search-bar{
+    background-color: gray !important;
+}
+.btn-sm{
+    font-size:15px !important;
+    font-weight: bold !important;
+    background-image: linear-gradient(45deg,black,rgb(144, 242, 255),#f388e1,#e4ffa4) !important;
+    color:black !important;
+  }
+  
+
+.profile-btn{
+  margin-top:-30px !important; 
+  padding-left:70px !important;
+  padding-right:70px !important; 
+  font-size: 15px !important;
+  margin-bottom:15px !important;
+  background-image: linear-gradient(45deg,black,pink,lightgreen) !important;
+  font-weight: bold !important;
+  color:black !important;
+}
+
+.ProCard-data{
+    background-color:yellowgreen !important;
+}
+
+.prifile-card{
+    text-align: center !important;
+    background-color:#62ad95 !important;
+}
+.prifile-card span{
+    margin-left:25px !important;
+    margin-right:25px !important;
+}
+.profile-bio{
+    color:rgb(78, 104, 255);
+}
+
+.proDet1-data{
+    background-color:lightgreen !important;
+}
+
+.proDet-data{
+    background-color: lightskyblue !important;
+}
+.repos1-data{
+    margin-top:-15px !important;
+    margin-bottom:-20px !important;
+}
+.repos-data{
+    background-color: lightpink !important;
+}
+
+.repo-text{
+    margin-top:5px !important;
+    padding-top:10px !important;
+    
+}
+.repos-text-size{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 20px !important;
+}
+
+.title{
+    padding-left: 2% !important;
+    padding-right: 56% !important;
+}
+
+.my-name{
+margin-top:-20px !important;
+}
